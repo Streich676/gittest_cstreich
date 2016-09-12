@@ -2,3 +2,7 @@ whatever
 this is gonna go wrong...
 I ahve no idea what I am dooing
 whatever
+I wish I knew how to save this file. 
+Ending some processes can be confusing. 
+
+I dont know why this wont break
